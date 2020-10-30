@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Monospace";
+  src: url("./fonts/Monospace.ttf"); /* IE9 Compat Modes */
+  src: local("Monospace"), local("Monospace"),
+    url("./fonts/Monospace.ttf") format("truetype");
+}
+
+* {
+  font-family: Monospace;
+  margin: 0;
+  padding: 0;
+}

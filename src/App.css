@@ -1,0 +1,32 @@
+.app {
+  height: 100vh;
+  letter-spacing: 0.08rem;
+}
+
+.header {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.header h1 {
+  text-transform: uppercase;
+  color: #292b2c;
+}
+
+.header h6 {
+  font-weight: lighter;
+  line-height: 0.5rem;
+  color: #292b2c;
+  text-decoration: none;
+}
+
+.btn {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+span p {
+  padding-top: 1rem;
+  letter-spacing: 0.04rem;
+  text-align: center;
+}
